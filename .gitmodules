@@ -118,3 +118,6 @@
 [submodule "pack/buildgroundwork/start/vim-rbenv"]
 	path = pack/buildgroundwork/start/vim-rbenv
 	url = https://github.com/tpope/vim-rbenv.git
+[submodule "pack/buildgroundwork/start/vim-vue-plugin"]
+	path = pack/buildgroundwork/start/vim-vue-plugin
+	url = https://github.com/leafOfTree/vim-vue-plugin.git

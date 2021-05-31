@@ -194,6 +194,9 @@ Pairs of handy bracket mappings.
 
 Several convenient key mappings.  For example, <kbd>[</kbd><kbd>space</kbd> and <kbd>]</kbd><kbd>space</kbd> for inserting newlines, and <kbd>[</kbd><kbd>e</kbd> and <kbd>]</kbd><kbd>e</kbd> for swapping lines.
 
+## [vim-vue-plugin](https://github.com/leafOfTree/vim-vue-plugin)
+Vim syntax and indent plugin for `.vue` files.
+
 ## [vitality.vim](https://github.com/sjl/vitality.vim)
 (Vit)ality is a plugin that makes (V)im play nicely with (i)Term 2 and (t)mux.
 
