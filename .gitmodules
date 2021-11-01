@@ -94,6 +94,9 @@
 [submodule "pack/buildgroundwork/start/ultisnips"]
   path = pack/buildgroundwork/start/ultisnips
   url = https://github.com/SirVer/ultisnips.git
+[submodule "pack/buildgroundwork/start/vim-tmux-focus-events"]
+  path = pack/buildgroundwork/start/vim-tmux-focus-events
+  url = https://github.com/tmux-plugins/vim-tmux-focus-events.git
 [submodule "pack/buildgroundwork/start/vim-json"]
   path = pack/buildgroundwork/start/vim-json
   url = https://github.com/elzr/vim-json.git
@@ -103,18 +106,9 @@
 [submodule "pack/buildgroundwork/start/vim-js-arrow-function"]
 	path = pack/buildgroundwork/start/vim-js-arrow-function
 	url = https://github.com/mvolkmann/vim-js-arrow-function.git
-[submodule "pack/buildgroundwork/start/vim-toml"]
-	path = pack/buildgroundwork/start/vim-toml
-	url = https://github.com/cespare/vim-toml.git
 [submodule "pack/buildgroundwork/start/csv.vim"]
 	path = pack/buildgroundwork/start/csv.vim
 	url = https://github.com/chrisbra/csv.vim.git
-[submodule "pack/buildgroundwork/start/vim-scala"]
-	path = pack/buildgroundwork/start/vim-scala
-	url = https://github.com/derekwyatt/vim-scala.git
-[submodule "pack/buildgroundwork/start/poet-v"]
-	path = pack/buildgroundwork/start/poet-v
-	url = https://github.com/petobens/poet-v.git
 [submodule "pack/buildgroundwork/start/vim-rbenv"]
 	path = pack/buildgroundwork/start/vim-rbenv
 	url = https://github.com/tpope/vim-rbenv.git
